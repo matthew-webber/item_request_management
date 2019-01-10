@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Create an Item Request">d36c985fdb32230027d7fbef29961904</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <example_text/>
+        <field/>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <include_none>false</include_none>
+        <instructions><![CDATA[<h3>Uploading an image</h3>
+<p>    Upload an image of the product either by:</p>
+<ul style="list-style-position: inside;"><li>dragging and dropping the file into this window, or</li><li>clicking the paperclip icon at top-right.</li></ul>
+<hr />
+<h3>Taking a screenshot</h3>
+<p>    <strong>On a Windows computer,</strong> open the Snipping Tool program by clicking the &#34;Start&#34; button and simply typing &#34;Snipping Tool&#34; to search for the program on your computer. Click and drag to specify the dimensions of the image and then save the screenshot to your computer.</p>
+<p>    <strong>On a Mac computer,</strong> press Command-Shift-4. Click and drag the pointer to specify the dimensions of the image. The screenshot will be automatically saved to your desktop.</p>
+<hr />
+<h3>Taking a GOOD screenshot</h3>
+<p>    A good screenshot will show the product as if you were just about to add it to your cart. That is, the features, color, etc. have been selected exactly as how you want it purchased.</p>
+<p> </p>
+<p><em>Example: This is a good screenshot -- notice the color and size (pack of 1) have already been selected.</em></p>
+<p><img style="border: 1px solid black; align: baseline;" title="" src="sys_attachment.do?sys_id&#61;4eaaac97db72230027d7fbef2996196c" alt="" width="461" height="317" align="bottom" border="1" hspace="" vspace="" /></p>]]></instructions>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
+        <macro/>
+        <mandatory>false</mandatory>
+        <map_to_field>false</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>please_upload_a_screenshot_of_the_product_page_before_submitting</name>
+        <order>100</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <question_text>Please upload a screenshot of the product page before submitting!</question_text>
+        <read_roles/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table>x_275670_itemreq_item_request</record_producer_table>
+        <reference/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>true</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 16:28:57</sys_created_on>
+        <sys_id>e23460d3db72230027d7fbef2996194c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Please upload a screenshot of the product page before submitting!</sys_name>
+        <sys_package display_value="Item Request Management" source="x_275670_itemreq">e616169ddbb2230027d7fbef299619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Item Request Management">e616169ddbb2230027d7fbef299619e9</sys_scope>
+        <sys_update_name>item_option_new_e23460d3db72230027d7fbef2996194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 17:12:01</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>11</type>
+        <ui_page/>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="delete_multiple" query="documentkey=e23460d3db72230027d7fbef2996194c"/>
+    <fx_price action="delete_multiple" query="id=e23460d3db72230027d7fbef2996194c"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>e23460d3db72230027d7fbef2996194c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 16:28:57</sys_created_on>
+        <sys_id>8294ac53db72230027d7fbef29961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 16:28:57</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>e23460d3db72230027d7fbef2996194c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-09 16:28:57</sys_created_on>
+        <sys_id>4a94ac53db72230027d7fbef2996193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-09 16:28:57</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
