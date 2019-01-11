@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1a45eaa7db7ae3002724d602ca96190d" sys_domain="global" table="" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>maw256</sys_created_by>
+            <sys_created_on>2019-01-10 20:29:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9245eaa7db7ae3002724d602ca96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="" name="NULL" sys_domain="global" view="Default view">1a45eaa7db7ae3002724d602ca96190d</sys_ui_form>
+            <sys_ui_section display_value="">3af89d2fdb32230027d7fbef299619b5</sys_ui_section>
+            <sys_updated_by>maw256</sys_updated_by>
+            <sys_updated_on>2019-01-10 20:29:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name/>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>maw256</sys_created_by>
+            <sys_created_on>2019-01-10 20:29:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a45eaa7db7ae3002724d602ca96190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_overrides/>
+            <sys_package display_value="Item Request Management" source="x_275670_itemreq">e616169ddbb2230027d7fbef299619e9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Item Request Management">e616169ddbb2230027d7fbef299619e9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1a45eaa7db7ae3002724d602ca96190d</sys_update_name>
+            <sys_updated_by>maw256</sys_updated_by>
+            <sys_updated_on>2019-01-10 20:29:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

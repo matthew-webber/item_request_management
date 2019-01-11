@@ -3,7 +3,7 @@
         <element label="Delivery location" max_length="99" name="delivery_location" type="string"/>
         <element label="Description" max_length="999" name="description" type="string"/>
         <element display="true" label="Name" max_length="99" name="name" type="string"/>
-        <element label="Product image" max_length="40" name="product_image" type="file_attachment"/>
+        <element label="Product Image" max_length="40" name="product_image" type="file_attachment"/>
         <element label="Product link" max_length="9999" name="product_link" type="string"/>
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
